@@ -33,7 +33,7 @@
 <body>
 <footer style="position: fixed; bottom: 0; width: 100%; background-color:rgb(71, 75, 78); padding: 0px 0; border-top: 0px solid #ddd;">
     <div class="footer-bottom text-center">
-        &copy; <?= date('Y'); ?> Copyright: <a href="#" style="text-decoration: none; color: #007bff;">@nanns el</a>
+        &copy; <?= date('Y'); ?> Copyright: <a href="#" style="text-decoration: none; color: #007bff;">@envy</a>
     </div>
 </footer>
 
