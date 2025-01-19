@@ -19,7 +19,7 @@ $resultPerkuliahan = mysqli_query($conn, $queryPerkuliahan);
 $dataPerkuliahan = mysqli_fetch_assoc($resultPerkuliahan);
 ?>
 
-<h1 style="text-align: center; margin-top: 20px;">Dashboard</h1>
+<h1 style="text-align: center; margin-top: 20px;">Menu</h1>
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap; margin-top: 30px;">
     <div style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; text-align: center; width: 200px; margin: 10px;">
         <h3>Mahasiswa</h3>

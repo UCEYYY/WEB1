@@ -8,7 +8,7 @@
     <style>
         /* Tambahkan gaya untuk navbar agar terlihat lebih modern */
         .navbar {
-            background: linear-gradient(135deg, #4caf50, #2196f3);
+            background: linear-gradient(135deg,rgb(76, 160, 175), #2196f3);
             color: #fff;
         }
 
@@ -47,7 +47,7 @@
     </nav>
     <div class="container">
         <h1>Selamat Datang di Website Akademik</h1>
-        <p>Gunakan menu di atas untuk membuaka menu website.</p>
+        <p>Gunakan menu di bawah untuk membuaka menu website.</p>
     </div>
 </body>
 </html>
